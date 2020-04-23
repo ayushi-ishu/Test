@@ -12,8 +12,8 @@ WordPress shortcodes are used to;
 2) Simplify the usage of WordPress plugins,
    themes, and other functions. 
 3) They behave like macros, when you insert a 
-   shortcode, it is replaced with a snippet of
-   code. It could be anything.
+   shortcode, it is replaced a snippet of code.
+It could be anything.
 </p>
 </body>
 
